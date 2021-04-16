@@ -7,7 +7,7 @@
     "start": "ts-node index.ts"
   },
   "dependencies": {
-    "@dfuse/client": "^0.2.6",
+    "@dfuse/client": "^0.3.19",
     "@types/debug": "^4.1.4",
     "@types/node-fetch": "^2.3.3",
     "@types/ws": "^6.0.1",
