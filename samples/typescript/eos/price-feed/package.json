@@ -19,7 +19,7 @@
     "apollo-utilities": "^1.2.1",
     "debug": "^4.1.1",
     "eosjs": "^20.0.0",
-    "graphql": "^14.2.1",
+    "graphql": "^15.5.0",
     "graphql-tag": "^2.10.1",
     "node-fetch": "^2.4.1",
     "subscriptions-transport-ws": "^0.9.16",
