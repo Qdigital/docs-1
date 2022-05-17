@@ -17,7 +17,7 @@
     "react": "^16.8.6",
     "react-apollo": "^2.5.3",
     "react-dom": "^16.8.6",
-    "react-scripts-ts": "3.1.0",
+    "react-scripts-ts": "4.0.1",
     "styled-system": "^4.1.0",
     "subscriptions-transport-ws": "^0.9.16",
     "ual-reactjs-renderer": "^0.1.1",
