@@ -7,7 +7,7 @@
     "@dfuse/client": "^0.3.8",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-scripts": "4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
